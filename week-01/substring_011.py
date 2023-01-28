@@ -9,3 +9,5 @@ for line in sys.stdin:
     print("True")
   else:
     print("False")
+
+#CA117 Solution by CheeseLad (https://github.com/CheeseLad)

@@ -11,3 +11,5 @@ for line in sys.stdin:
     print(line[:i] + "M" + line[i + 1:])
   else:
     print(line)
+
+#CA117 Solution by CheeseLad (https://github.com/CheeseLad)

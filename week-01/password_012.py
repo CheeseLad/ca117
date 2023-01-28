@@ -15,3 +15,5 @@ for line in sys.stdin:
     else:
       other = 1
   print(upper + lower + numeric + other)
+
+#CA117 Solution by CheeseLad (https://github.com/CheeseLad)

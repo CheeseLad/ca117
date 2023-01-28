@@ -16,3 +16,5 @@ while i < len(words):
   if len(words[i]) >= 3:
     print(words[i][1:len(words[i]) - 1])
   i = i + 1
+
+#CA117 Solution by CheeseLad (https://github.com/CheeseLad)

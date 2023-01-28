@@ -27,3 +27,5 @@ while i < len(processed):
   i = i + 1
 
 print(len(wordcount))
+
+#CA117 Solution by CheeseLad (https://github.com/CheeseLad)

@@ -11,3 +11,5 @@ for line in sys.stdin:
   day = days[calendar.weekday(int(lines[2]), int(lines[1]), int(lines[0]))]
   daysay = dayline[calendar.weekday(int(lines[2]), int(lines[1]), int(lines[0]))]
   print("You were born on a " + day + daysay)
+
+#CA117 Solution by CheeseLad (https://github.com/CheeseLad)

@@ -24,3 +24,5 @@ for string in sys.stdin:
   while i < len(counted):
     print(counted[i] == length[i])
     i = i + 1
+
+#CA117 Solution by CheeseLad (https://github.com/CheeseLad)

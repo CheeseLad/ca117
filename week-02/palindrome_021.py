@@ -11,3 +11,5 @@ for line in sys.stdin:
       word.append(line[i])
   wordcomplete = "".join(word)
   print(wordcomplete == wordcomplete[::-1])
+
+#CA117 Solution by CheeseLad (https://github.com/CheeseLad)

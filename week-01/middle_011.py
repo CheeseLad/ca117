@@ -8,3 +8,5 @@ for line in sys.stdin:
     print(line[len(line) // 2])
   else:
     print("No middle character!")
+
+#CA117 Solution by CheeseLad (https://github.com/CheeseLad)

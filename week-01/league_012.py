@@ -25,3 +25,5 @@ for i in range(len(clubs)):
   tokens = remain[i].split()
   print(f"{pos:3d}" + " " + f"{clubs[i]:{clublen}s}" + f"{tokens[0]:3s} " + f"{tokens[1]:>2s}  " + f"{tokens[2]:>2s}  " + f"{tokens[3]:>2s}  " + f"{tokens[4]:>2s}  " + f"{tokens[5]:>2s} " + f"{tokens[6]:>3s} " + f"{tokens[7]:>3s}")
   pos = pos + 1
+
+#CA117 Solution by CheeseLad (https://github.com/CheeseLad)

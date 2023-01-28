@@ -21,3 +21,5 @@ for line in sys.stdin:
     print(line + "es")
   else:
     print(line + "s")
+
+#CA117 Solution by CheeseLad (https://github.com/CheeseLad)

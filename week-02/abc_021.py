@@ -23,3 +23,5 @@ for c in letters:
     final.append(str(max(oldnums)))
 
 print(" ".join(final))
+
+#CA117 Solution by CheeseLad (https://github.com/CheeseLad)

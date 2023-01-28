@@ -26,3 +26,5 @@ if error == 0:
   if error == 0:
     print(f"Best student: {highestname}")
     print(f"Best mark: {highestmark}")
+
+#CA117 Solution by CheeseLad (https://github.com/CheeseLad)

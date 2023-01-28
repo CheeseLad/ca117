@@ -12,3 +12,5 @@ biggest = len(max(lines, key=len))
 for line in lines:
   line = line.strip()
   print(f"{line:^{biggest:d}s}")
+
+#CA117 Solution by CheeseLad (https://github.com/CheeseLad)

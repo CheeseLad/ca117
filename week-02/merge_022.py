@@ -23,3 +23,4 @@ for numbers in range(len(lista) + len(listb)):
   if numbers < len(listb):
     print(listb[numbers])
 
+#CA117 Solution by CheeseLad (https://github.com/CheeseLad)
