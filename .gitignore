@@ -4,6 +4,6 @@ ca117-notes
 __pycache__
 *.swp
 *_old.py
-week-02/old
+old
 *.sh
 bucketlist
